@@ -1,0 +1,21 @@
+NO ./Textures/Psychedelic_NORTH.xpm
+SO ./Textures/Psychedelic_SOUTH.xpm
+WE ./Textures/Psychedelic_WEST.xpm
+EA ./Textures/Psychedelic_EAST.xpm
+DO ./Textures/Psychedelic_DOOR.xpm
+
+F 41,173,237
+C 0,0,255
+M 249,0,137
+P 249,0,137
+R 0,255,255
+
+111111111111
+100220000001
+100110000001
+112110100001
+100003000011
+100000010001
+100100101001
+10010N000011
+111111111111

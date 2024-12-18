@@ -1,0 +1,11 @@
+NO textures/brick.xpm
+SO textures/brick.xpm
+WE textures/brick.xpm
+EA textures/brick.xpm
+DO ./Textures/Psychedelic_DOOR.xpm
+
+F 41,173,237
+C 0,0,255
+M 249,0,137
+P 249,0,137
+R 0,255,255
