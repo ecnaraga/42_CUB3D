@@ -1,6 +1,6 @@
 # 42_CUB3D
 
-Goal
+Goal (2 people team project)
 
     - Mandatory : Write a program to create a 3D graphical representation of the inside of a map from a first-person perspective using the ray-Casting principles
     - Bonus : Implements wall collision, doors, animated sprites, minimap, rotation with the mouse
